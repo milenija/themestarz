@@ -6861,5 +6861,49 @@ a:hover {
   opacity: 0.5;
 }
 
+.list-item {
+  margin-bottom: 60px;
+
+}
+ .title {
+  margin-bottom: 10px;
+ }
+
+ .icon {
+  border-radius: 50%;
+  display: inline-block;
+  background-color: #4611a7;
+  color:white;
+  text-align: center;
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+ }
+
+.icon i {
+  font-size: 14px;
+  line-height: 38px;
+}
+
+.count {
+  opacity: 0.8;
+  display: inline-block;
+  font-size: 10px;
+  float: right;
+  top: 7px;
+  position: relative;
+}
+
+figure {
+  margin: 0;
+}
+
+ul > li> a {
+  list-style-type: none;
+}
 
 
+.form-control {
+  width: 50%;
+  
+}
